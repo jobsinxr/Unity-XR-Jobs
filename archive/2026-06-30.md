@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity XR Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 17:54 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 21:19 UTC</small></sub>
 
 Daily Unity XR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs).
