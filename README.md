@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity XR Jobs — 2026
 
-<sub><small>Last updated: Oct 7, 2026 at 18:56 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
 
 Daily Unity XR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs).
@@ -12,12 +12,14 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, Account Security](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-ros-564541ea?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, ROS](https://jobsinxr.com/jobs/roblox-software-engineer-ros-564541ea?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-product-support-manager-support-operations-3b9b2ad3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Product Support Manager, Support Operations](https://jobsinxr.com/jobs/roblox-senior-product-support-manager-support-operations-3b9b2ad3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 8 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-test-frameworks-and-tooling-729d35cf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, Test Frameworks & Tooling](https://jobsinxr.com/jobs/roblox-software-engineer-test-frameworks-and-tooling-729d35cf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 6 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-ip-counsel-ae829e40?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[IP Counsel](https://jobsinxr.com/jobs/roblox-ip-counsel-ae829e40?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 6 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-creator-collaboration-b6ab58bd?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Software Engineer, Creator Collaboration](https://jobsinxr.com/jobs/roblox-senior-software-engineer-creator-collaboration-b6ab58bd?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 1 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-marketing-manager-menat-26736618?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Marketing Manager, MENAT](https://jobsinxr.com/jobs/roblox-marketing-manager-menat-26736618?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | Remote | Remote | Full Time | Oct 1 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-7aab3f16?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Software Engineer, Reliability](https://jobsinxr.com/jobs/roblox-senior-software-engineer-reliability-7aab3f16?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Sep 29 |
-| **[Epic Games](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-498c4fe8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Language Programmer](https://jobsinxr.com/jobs/epic-games-senior-language-programmer-498c4fe8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | London,England,United Kingdom | On Site | Full Time | Sep 28 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-talent-sourcer-short-term-9e18f1b1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Talent Sourcer (Short-Term)](https://jobsinxr.com/jobs/roblox-senior-talent-sourcer-short-term-9e18f1b1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Sep 28 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-executive-business-partner-creator-ecosystem-55aef5a1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Executive Business Partner, Creator Ecosystem](https://jobsinxr.com/jobs/roblox-executive-business-partner-creator-ecosystem-55aef5a1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Sep 28 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-international-operations-manager-744d736c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[International Operations Manager](https://jobsinxr.com/jobs/roblox-international-operations-manager-744d736c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | intern | Sep 24 |
@@ -59,18 +61,16 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-legal-operations-technology-specialist-0a0d0435?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Legal Operations Technology Specialist](https://jobsinxr.com/jobs/roblox-legal-operations-technology-specialist-0a0d0435?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Aug 27 |
 | **[Niantic Spatial](https://jobsinxr.com/jobs/niantic-spatial-principal-architect-product-engineering-541556ff?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Principal Architect, Product Engineering](https://jobsinxr.com/jobs/niantic-spatial-principal-architect-product-engineering-541556ff?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Francisco, CA, United States | Remote | Full Time | Aug 27 |
 | **[SpAItial](https://jobsinxr.com/jobs/spaitial-technical-artist-959e61d4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Technical Artist](https://jobsinxr.com/jobs/spaitial-technical-artist-959e61d4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | London, United Kingdom | On Site | Full Time | Aug 24 |
-| **[Afference](https://jobsinxr.com/jobs/afference-associate-scientist-sensory-neurophysiology-8ecab724?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Associate Scientist, Sensory Neurophysiology](https://jobsinxr.com/jobs/afference-associate-scientist-sensory-neurophysiology-8ecab724?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | Cleveland, OH, United States | Remote | Full Time | Aug 24 |
 | **[Rivet](https://jobsinxr.com/jobs/rivet-software-engineer-intern-xr-team-fall-2026-2b8e28c2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer Intern, XR Team (Fall 2026)](https://jobsinxr.com/jobs/rivet-software-engineer-intern-xr-team-fall-2026-2b8e28c2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | Bellevue, WA, United States | On Site | intern | Aug 24 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-manager-public-policy-and-us-state-strategy-741b5ca4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Manager, Public Policy and US State Strategy](https://jobsinxr.com/jobs/roblox-manager-public-policy-and-us-state-strategy-741b5ca4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | Washington, District of Columbia, United States | On Site | Full Time | Aug 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 11 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 14% remote | 9 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-07 archive](archive/2026-10-07.md)
+- [2026-10-12 archive](archive/2026-10-12.md)
 
 ## About This Repository
 
