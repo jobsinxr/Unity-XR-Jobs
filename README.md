@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity XR Jobs — 2026
 
-<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
 
 Daily Unity XR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-grc-analyst-4cef82cf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior GRC Analyst](https://jobsinxr.com/jobs/roblox-senior-grc-analyst-4cef82cf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 14 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-executive-business-partner-chief-business-officer-6fec260b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Executive Business Partner, Chief Business Officer](https://jobsinxr.com/jobs/roblox-executive-business-partner-chief-business-officer-6fec260b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 13 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, Account Security](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-ros-564541ea?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, ROS](https://jobsinxr.com/jobs/roblox-software-engineer-ros-564541ea?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-product-support-manager-support-operations-3b9b2ad3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Product Support Manager, Support Operations](https://jobsinxr.com/jobs/roblox-senior-product-support-manager-support-operations-3b9b2ad3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 8 |
@@ -60,17 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-economy-platform-e47dae5e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, Economy Platform](https://jobsinxr.com/jobs/roblox-software-engineer-economy-platform-e47dae5e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Aug 28 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-legal-operations-technology-specialist-0a0d0435?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Legal Operations Technology Specialist](https://jobsinxr.com/jobs/roblox-legal-operations-technology-specialist-0a0d0435?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Aug 27 |
 | **[Niantic Spatial](https://jobsinxr.com/jobs/niantic-spatial-principal-architect-product-engineering-541556ff?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Principal Architect, Product Engineering](https://jobsinxr.com/jobs/niantic-spatial-principal-architect-product-engineering-541556ff?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Francisco, CA, United States | Remote | Full Time | Aug 27 |
-| **[SpAItial](https://jobsinxr.com/jobs/spaitial-technical-artist-959e61d4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Technical Artist](https://jobsinxr.com/jobs/spaitial-technical-artist-959e61d4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | London, United Kingdom | On Site | Full Time | Aug 24 |
-| **[Rivet](https://jobsinxr.com/jobs/rivet-software-engineer-intern-xr-team-fall-2026-2b8e28c2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer Intern, XR Team (Fall 2026)](https://jobsinxr.com/jobs/rivet-software-engineer-intern-xr-team-fall-2026-2b8e28c2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | Bellevue, WA, United States | On Site | intern | Aug 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 9 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 14% remote | 7 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-13 archive](archive/2026-10-13.md)
+- [2026-10-15 archive](archive/2026-10-15.md)
 
 ## About This Repository
 
