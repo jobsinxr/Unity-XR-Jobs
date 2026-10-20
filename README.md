@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity XR Jobs — 2026
 
-<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
 
 Daily Unity XR jobs curated by Jobs in XR.
 Updated daily by [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-data-infrastructure-compute-603b151e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Software Engineer, Data Infrastructure Compute](https://jobsinxr.com/jobs/roblox-senior-software-engineer-data-infrastructure-compute-603b151e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 20 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-principal-software-engineer-orchestration-f2da013e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Principal Software Engineer, Orchestration](https://jobsinxr.com/jobs/roblox-principal-software-engineer-orchestration-f2da013e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 20 |
+| **[Roblox](https://jobsinxr.com/jobs/roblox-executive-talent-business-partner-4f16d7b2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Executive Talent Business Partner](https://jobsinxr.com/jobs/roblox-executive-talent-business-partner-4f16d7b2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 17 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-grc-analyst-4cef82cf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior GRC Analyst](https://jobsinxr.com/jobs/roblox-senior-grc-analyst-4cef82cf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 14 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-executive-business-partner-chief-business-officer-6fec260b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Executive Business Partner, Chief Business Officer](https://jobsinxr.com/jobs/roblox-executive-business-partner-chief-business-officer-6fec260b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 13 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, Account Security](https://jobsinxr.com/jobs/roblox-software-engineer-account-security-773192ca?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Oct 9 |
@@ -59,18 +62,15 @@ Visit [Jobs in XR](https://jobsinxr.com?utm_source=github&utm_medium=repo&utm_ca
 | **[Roblox](https://jobsinxr.com/jobs/roblox-marketing-manager-live-content-short-term-05bc7647?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Marketing Manager, Live Content (Short-Term)](https://jobsinxr.com/jobs/roblox-marketing-manager-live-content-short-term-05bc7647?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Sep 1 |
 | **[XYZ Reality](https://jobsinxr.com/jobs/xyz-reality-site-engineer-de35ee9f?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Site Engineer](https://jobsinxr.com/jobs/xyz-reality-site-engineer-de35ee9f?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | Fargo, ND, United States | On Site | Full Time | Sep 1 |
 | **[Roblox](https://jobsinxr.com/jobs/roblox-senior-software-engineer-observability-70f4ea6c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Senior Software Engineer, Observability](https://jobsinxr.com/jobs/roblox-senior-software-engineer-observability-70f4ea6c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Aug 31 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-software-engineer-economy-platform-e47dae5e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Software Engineer, Economy Platform](https://jobsinxr.com/jobs/roblox-software-engineer-economy-platform-e47dae5e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Aug 28 |
-| **[Roblox](https://jobsinxr.com/jobs/roblox-legal-operations-technology-specialist-0a0d0435?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Legal Operations Technology Specialist](https://jobsinxr.com/jobs/roblox-legal-operations-technology-specialist-0a0d0435?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Mateo, CA, United States | On Site | Full Time | Aug 27 |
-| **[Niantic Spatial](https://jobsinxr.com/jobs/niantic-spatial-principal-architect-product-engineering-541556ff?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | **[Principal Architect, Product Engineering](https://jobsinxr.com/jobs/niantic-spatial-principal-architect-product-engineering-541556ff?utm_source=github&utm_medium=repo&utm_campaign=github-unity-xr-jobs)** | San Francisco, CA, United States | Remote | Full Time | Aug 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 7 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 12% remote | 6 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-15 archive](archive/2026-10-15.md)
+- [2026-10-20 archive](archive/2026-10-20.md)
 
 ## About This Repository
 
